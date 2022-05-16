@@ -53,9 +53,5 @@
         </td>
     <td width="50%" valign="top"></td>
   </tr>
-  <tr>
-    <td width="50%" valign="top"></td>
-    <td width="50%" valign="top"></td>
-  </tr>
 </tbody>
 </table>
