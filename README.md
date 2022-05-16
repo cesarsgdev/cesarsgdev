@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="JavaScript"/>
   </a>
       </p>
-        <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.<td>
+        <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.</p><td>
     <td width="50%" valign="top"></td>
   </tr>
   <tr>
