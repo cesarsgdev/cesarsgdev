@@ -37,19 +37,20 @@
 <table>
 <tbody>
   <tr>
-    <td width="50%" valign="top">      <h3 align="center">Sephardic Tree</h3>
+    <td width="50%" valign="top">
+    <h3 align="center">Sephardic Tree</h3>
         <br />
         <a target="_blank" href="https://sephardictree.com">
-            <img src="projects/sephardic-tree-thumbnail.webp" width="100%" alt="Sephardic Tree"/>
+            <img src="projects/sephardic-tree-thumbnail.webp" width="100%" alt="Sephardic Tree" />
         </a>
         <br />
         <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="HTML5"/>
 <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="CSS3"/>
 <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="JavaScript"/>
-  </a>
       </p>
-        <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.</p><td>
+        <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.</p>
+        <td>
     <td width="50%" valign="top"></td>
   </tr>
   <tr>
