@@ -15,6 +15,10 @@
 </a>
 </p>
 
+<h1 align="center">About Me</h1>
+<p>I am a full-stack Software Engineer specialized in building web applications and services from scratch. I have a bachelor's degree in Computer Information Systems from The University of Texas Rio Grande Valley. I also have experience working with HTML, CSS, JavaScript, Mongo DB, Express JS, React, Node, WordPress, PHP, and MySQL. I enjoy working with teams of developers to create high-quality applications that solve real-world problems. I am passionate about using the latest technologies to build beautiful and efficient solutions.
+</p>
+
 <h1 align="center">Skills</h1>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="HTML5"/>
