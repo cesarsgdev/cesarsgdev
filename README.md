@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/static/v1?label=&message=WordPress&color=031927&logo=wordpress&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="WordPress"/>
 </p>
 
-<h1 align="center">Projects<h1>
+<h1 align="center">Projects</h1>
 <table>
-<tbody bordercolor="#66b2b2">
+<tbody>
   <tr>
     <td width="50%" valign="top">
     <h3 align="center">Sephardic Tree</h3>
