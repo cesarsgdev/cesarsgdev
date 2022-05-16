@@ -17,8 +17,14 @@
 
 <h1 align="center">Skills</h1>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200" />
-<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200" />
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200" />
-
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200" alt="HTML5"/>
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200" alt="CSS3"/>
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200" alt="JavaScript"/>
+<img src="https://img.shields.io/static/v1?label=&message=React&color=031927&logo=react&logoColor=white&labelColor=ba1200" alt="React"/>
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&color=031927&logo=nodedotjs&logoColor=white&labelColor=ba1200" alt="Node.js"/>
+<img src="https://img.shields.io/static/v1?label=&message=Express&color=031927&logo=express&logoColor=white&labelColor=ba1200" alt="Express"/>
+<img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=031927&logo=mongodb&logoColor=white&labelColor=ba1200" alt="MongoDB"/>
+<img src="https://img.shields.io/static/v1?label=&message=PHP&color=031927&logo=php&logoColor=white&labelColor=ba1200" alt="PHP"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200" alt="MySQL"/>
+<img src="https://img.shields.io/static/v1?label=&message=WordPress&color=031927&logo=wordpress&logoColor=white&labelColor=ba1200" alt="WordPress"/>
 </p>
