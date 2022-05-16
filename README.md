@@ -14,3 +14,11 @@
 <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=031927&logo=twitter&logoColor=white&labelColor=ba1200" />
 </a>
 </p>
+
+<h1 align="center">Skills</h1>
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200" />
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200" />
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200" />
+
+</p>
