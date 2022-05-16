@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">About Me</h1>
-<p>I am a full-stack Software Engineer specialized in building web applications and services from scratch. I have a bachelor's degree in Computer Information Systems from The University of Texas Rio Grande Valley. I enjoy working with teams of developers to create high-quality applications that solve real-world problems. I am passionate about using the latest technologies to build beautiful and efficient solutions.
+<p>I'm Cesar Sepulveda. A full-stack Software Engineer specialized in building web applications and services from scratch. I have a bachelor's degree in Computer Information Systems from The University of Texas Rio Grande Valley. I enjoy working with teams of developers to create high-quality applications that solve real-world problems. I am passionate about using the latest technologies to build beautiful and efficient solutions.
 </p>
 
 <h1 align="center">Skills</h1>
@@ -32,3 +32,29 @@
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
 <img src="https://img.shields.io/static/v1?label=&message=WordPress&color=031927&logo=wordpress&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="WordPress"/>
 </p>
+
+<h1 align="center">Projects<h1>
+<table>
+<tbody>
+  <tr>
+    <td width="50%" valign="top">      <h3 align="center">Sephardic Tree</h3>
+        <br />
+        <a target="_blank" href="https://sephardictree.com">
+            <img src="projects/sephardic-tree-thumbnail.webp" width="100%" alt="Sephardic Tree"/>
+        </a>
+        <br />
+        <p align="center">
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="HTML5"/>
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="CSS3"/>
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="JavaScript"/>
+  </a>
+      </p>
+        <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.td>
+    <td width="50%" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</tbody>
+</table>
