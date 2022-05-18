@@ -87,7 +87,7 @@
 </tbody>
 </table>
 
-<h1>Contact</h1>
+<h1 align="center">Contact</h1>
 <p align="center">
 <a href="mailto:cesarsg.dev@gmail.com target="_blank">
 <img src="https://img.shields.io/static/v1?label=&message=Email&color=031927&logo=gmail&logoColor=white&labelColor=ba1200&style=for-the-badge" />
