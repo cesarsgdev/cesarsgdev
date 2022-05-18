@@ -51,7 +51,19 @@
       </p>
         <p>Web app written in vanilla JavaScript. It allows users to create and build their Family Trees in the format requested by CIL (Lisbon Jewish Community) which is the first step in the process for the user's claim of Portuguese citizenship.</p>
         </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+        <h3 align="center">JOCAR</h3>
+        <br />
+        <a target="_blank" href="https://jocar.com.mx">
+            <img src="projects/jocar-thumbnail.webp" width="100%" alt="JOCAR" />
+        </a>
+        <br />
+        <p align="center">
+<img src="https://img.shields.io/static/v1?label=&message=WordPress&color=031927&logo=wordpress&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="WordPress"/>
+<img src="https://img.shields.io/static/v1?label=&message=PHP&color=031927&logo=php&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="PHP"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
+      </p>
+        <p>Website developed for the mexican music label and booking agent JOCAR. Custom functionality written included Artists, Calendar and YouTube videos management.</p></td>
     
   </tr>
 </tbody>
