@@ -1,4 +1,4 @@
-<img src="images/banner.gif" width="100%" />
+<img src="images/banner-longer-animation.gif" width="100%" />
 
 <p align="center">
 <a href="mailto:cesarsg.dev@gmail.com target="_blank">
