@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
 <br />
       </p>
-        <p>Website redeveloped for Finanzas Digital to solve speed and design issues. Several modules were rewritten to preserve critical functionality from previous theme.</p></td>
+        <p>Website redeveloped for Finanzas Digital to solve speed and design issues. Several modules were rewritten to preserve critical functionality from previous theme. Loading speeds improved 5 seconds on average.</p></td>
   </tr>
 </tbody>
 </table>
