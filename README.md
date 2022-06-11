@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
 <br />
       </p>
-        <p>Website developed for the mexican music label and booking agent JOCAR. Custom functionality written included Artists, Calendar and YouTube videos management.</p></td>
+        <p>Website developed for the mexican music label and booking agent JOCAR. Custom functionality written included Artists, Calendar and YouTube video management.</p></td>
     
   </tr>
   <tr>
