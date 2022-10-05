@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">About Me</h1>
-<p>I'm Cesar Sepulveda. A full-stack Software Engineer specializing in building web applications and services from scratch. I enjoy working with teams of developers to create high-quality applications that solve real-world problems. I am passionate about using the latest technologies to build beautiful and efficient solutions.
+<p>I am a full-stack Software Engineer specializing in building web applications and services from scratch. I have a bachelor's degree in Computer Information Systems from The University of Texas Rio Grande Valley. I enjoy working with teams of developers to create high-quality applications that solve real-world problems. I am passionate about using the latest technologies to build beautiful and efficient solutions.
 </p>
 
 <h1 align="center">Skills</h1>
