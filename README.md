@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=031927&logo=html5&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="HTML5"/>
 <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=031927&logo=css3&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="CSS3"/>
 <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=031927&logo=javascript&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/static/v1?label=&message=React&color=031927&logo=react&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="React"/>
+<img src="https://img.shields.io/static/v1?label=&message=React.js&color=031927&logo=react&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="React.js"/>
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=031927&logo=nodedotjs&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="Node.js"/>
 <img src="https://img.shields.io/static/v1?label=&message=Express&color=031927&logo=express&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="Express"/>
 <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=031927&logo=mongodb&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MongoDB"/>
