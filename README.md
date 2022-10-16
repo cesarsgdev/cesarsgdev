@@ -84,6 +84,22 @@
       </p>
         <p>Website redeveloped for Finanzas Digital to solve speed and design issues. Several modules were rewritten to preserve critical functionality from previous theme. Loading speeds improved 5 seconds on average.</p></td>
   </tr>
+    <tr>
+  <td width="50%" valign="top">
+        <h3 align="center">Urgent Scan USA</h3>
+        <br />
+        <a target="_blank" href="https://urgentscanusa.com">
+            <img src="projects/urgent-scan-thumbnail.webp" width="100%" alt="Finanzas Digital" />
+        </a>
+        <br />
+        <p align="center">
+<img src="https://img.shields.io/static/v1?label=&message=WordPress&color=031927&logo=wordpress&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="WordPress"/>
+<img src="https://img.shields.io/static/v1?label=&message=PHP&color=031927&logo=php&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="PHP"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
+<br />
+      </p>
+        <p>Website developed for Urgent Scan USA LLC. Custom blocks were created for the different page's sections.</p></td>
+  </tr>
 </tbody>
 </table>
 
