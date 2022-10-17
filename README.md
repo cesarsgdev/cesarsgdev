@@ -83,8 +83,7 @@
 <br />
       </p>
         <p>Website redeveloped for Finanzas Digital to solve speed and design issues. Several modules were rewritten to preserve critical functionality from previous theme. Loading speeds improved 5 seconds on average.</p></td>
-  </tr>
-  <td width="50%" valign="top">
+          <td width="50%" valign="top">
         <h3 align="center">Urgent Scan USA</h3>
         <br />
         <a target="_blank" href="https://urgentscanusa.com">
@@ -98,6 +97,8 @@
 <br />
       </p>
         <p>Website developed for Urgent Scan USA LLC. Custom blocks were created for the different page's sections.</p></td>
+  </tr>
+
 </tbody>
 </table>
 
