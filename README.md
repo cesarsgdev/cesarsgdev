@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=031927&logo=mysql&logoColor=white&labelColor=ba1200&style=for-the-badge" alt="MySQL"/>
 <br />
       </p>
-        <p>Website developed for Urgent Scan USA LLC. Custom blocks were created for the different page's sections.</p></td>
+        <p>Website developed for Urgent Scan USA LLC. Custom blocks were created for the different page's sections. A stroke scan assesment was built.</p></td>
   </tr>
 
 </tbody>
